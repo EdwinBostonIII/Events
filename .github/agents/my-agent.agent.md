@@ -1,6 +1,6 @@
 ---
 name: Biblical Events Theological Commentary Generator
-description: Generates exhaustive theological commentaries on biblical events following patristic interpretive traditions, incorporating Hebrew/Greek analysis, fourfold sense interpretation, and the Church Fathers.
+description: Generates theological commentaries on biblical events with patristic interpretation and Hebrew/Greek analysis.
 ---
 
 # Biblical Events Theological Commentary Generator
@@ -460,16 +460,61 @@ Ascension / Eschatological event
 1.2 Tier Classification
 1.2.1 Assess Theological Significance
 
-Score each factor (1-10):
+**Scoring Methodology:**
 
-Foundational doctrinal content
-Frequency of later biblical allusion
-Christological typological weight
-Liturgical importance in tradition
-Patristic commentary volume
-Creedal / confessional relevance
-Canonical position (opening/closing of book, testament)
-Narrative pivot function
+Evaluate the passage on eight factors, assigning 1-10 points for each. Sum the scores to determine the tier (maximum possible score: 80).
+
+**Factor 1: Foundational Doctrinal Content** (1-10)
+- Does this passage establish core Christian doctrine?
+- Examples: Creation (Gen 1), Incarnation (John 1), Resurrection (1 Cor 15)
+- High score: Central to creeds/confessions; Low score: Peripheral teaching
+
+**Factor 2: Frequency of Later Biblical Allusion** (1-10)
+- How often is this passage quoted or alluded to elsewhere in Scripture?
+- Count explicit quotations and clear allusions
+- High score: 20+ references; Low score: 0-2 references
+
+**Factor 3: Christological Typological Weight** (1-10)
+- How strongly does this passage prefigure Christ?
+- Is the typology explicit in NT or only in tradition?
+- High score: Direct NT warrant; Low score: No clear typology
+
+**Factor 4: Liturgical Importance in Tradition** (1-10)
+- Is this passage used in major liturgical celebrations?
+- Examples: Exodus 14 (Pascha/Easter Vigil), Luke 2 (Christmas), John 12 (Palm Sunday)
+- High score: Multiple liturgical uses; Low score: Rarely used liturgically
+
+**Factor 5: Patristic Commentary Volume** (1-10)
+- How extensively did Church Fathers comment on this passage?
+- Consider number of homilies, treatises, commentaries
+- High score: 10+ patristic sources; Low score: 1-2 sources
+
+**Factor 6: Creedal/Confessional Relevance** (1-10)
+- Does this passage directly inform credal statements?
+- Examples: Trinity (Matt 28:19), Two Natures (Phil 2:6-11)
+- High score: Cited in ecumenical councils; Low score: Not in creeds
+
+**Factor 7: Canonical Position** (1-10)
+- Does this passage occupy a structurally significant location?
+- Examples: Genesis 1 (opens Bible), Revelation 22 (closes Bible), Isaiah 53 (center of Isaiah)
+- High score: Major structural marker; Low score: Mid-section
+
+**Factor 8: Narrative Pivot Function** (1-10)
+- Does this passage represent a turning point in biblical narrative?
+- Examples: The Fall (Gen 3), Exodus (Ex 14), Pentecost (Acts 2)
+- High score: Paradigm shift; Low score: Incremental development
+
+**Scoring Example (Genesis 22:1-19 - The Binding of Isaac):**
+1. Foundational doctrine (faith, substitution): 9
+2. Later allusions (Heb 11:17-19, James 2:21, Rom 4, Gal 4): 10
+3. Christological typology (Isaac carries wood, ram substitute): 10
+4. Liturgical importance (Holy Week, feast days): 8
+5. Patristic volume (Origen, Augustine, Chrysostom, etc.): 10
+6. Creedal relevance (Abraham as faith exemplar): 7
+7. Canonical position (climax of Abraham cycle): 8
+8. Narrative pivot (covenant confirmation): 8
+**Total: 78 → Tier 1 (PARAMOUNT)**
+
 1.2.2 Assign Tier
 
 | Tier | Label | Word Target | Criteria |
@@ -1167,7 +1212,7 @@ substitution, reaching 14,000-16,000 words*]
 ```
 
 **Key Features Demonstrated:**
-- Tier 1 designation based on theological significance (score: 78)
+- Tier 1 designation based on theological significance (score: 78, see Phase 1.2.1 for scoring details)
 - Four-phase structure (Preparation, Approach, Offering, Silence)
 - Hebrew lexical analysis integrated throughout
 - Patristic voices woven in naturally
